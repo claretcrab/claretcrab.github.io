@@ -1,0 +1,36 @@
+languageCode = "en-us"
+title = "Joan Galván | Portfolio"
+baseurl = "http://claretcrab.github.io/"
+theme = "aerial"
+
+[params]
+  name = "Joan Galván"
+  about = "Software Engineer &nbsp;&bull;&nbsp; Needless to say"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/claretcrab"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "http://www.facebook.com/claretcrab"
+
+[[params.social]]
+  medium = "Linkedin"
+  icon = "linkedin"
+  link = "http://es.linkedin.com/in/joangalvan/"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/claretcrab"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:joan@claretcrab.es"
