@@ -31,6 +31,11 @@ theme = "aerial"
   link = "https://github.com/claretcrab"
 
 [[params.social]]
+  medium = "Web"
+  icon = "user"
+  link = "http://web.claretcrab.es"
+
+[[params.social]]
   medium = "Email"
   icon = "envelope-o"
   link = "mailto:joan@claretcrab.es"
